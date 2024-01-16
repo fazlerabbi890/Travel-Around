@@ -221,7 +221,7 @@
 .destination-fst > .two {
   height: 300px;
   width: 560px;
-  background: url(../media/Rectangle\ 6.png);
+  background: url(../media/Rectangle\ 8.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -575,14 +575,11 @@
   color: orangered;
   transition: 0.4s;
 }
-.perfect-scnd {
+
+iframe {
+  width: 483px;
   height: 400px;
-  width: 500px;
-  border-radius: 20px;
-  background: url(../media/Group\ 40089.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  margin-top: 11%;
 }
 
 /* end 7th section */
@@ -918,10 +915,18 @@ small {
     width: 96%;
     margin-top: 35%;
   }
-  .perfect-scnd {
+  /* .perfect-scnd {
     display: block;
-    width: 100%;
+    width: 83%;
     margin-top: 6%;
+    margin-left: 7%;
+  } */
+  /* .perfect-scnd > iframe {
+    width: 600px;
+  } */
+  iframe {
+    width: 600px;
+    margin-top: 7%;
   }
 
   /* end 7th section */
